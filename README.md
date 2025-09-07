@@ -34,8 +34,13 @@
 <table>
 <thead>
 <tr>
-<th><a href="https://github.com/muhammadabdosaber/github-readme-stats"><img align="center" src="https://camo.githubusercontent.com/5a284aa3e9c01ccf99d22cc5c6f5a64b3ff3948dad4f0e2cbdc6b28a1710ace4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d627565667926686964655f626f726465723d74727565" alt="Muhammad Abdo's GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=muhammadabdosaber&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a></th>
+<th><a href="https://github.com/muhammadabdosaber/github-readme-stats">
+
+<img align="center" src="https://camo.githubusercontent.com/5a284aa3e9c01ccf99d22cc5c6f5a64b3ff3948dad4f0e2cbdc6b28a1710ace4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d627565667926686964655f626f726465723d74727565" alt="Muhammad Abdo's GitHub Stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdosaber&theme=highcontrast&hide_border=true" style="max-width: 100%;"> 
+
+</a></th>
 <th><a href="https://github.com/muhammadabdosaber/github-readme-stats"><img align="center" src="https://camo.githubusercontent.com/ba28bbdf8b54946e9f1ee4bc7ad9b26977f064fe24618f622685e208aeee5e30/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374267468656d653d627565667926686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=muhammadabdosaber&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a></th>
 </tr>
+<!-- <th> <a href="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)"></th> -->
 </thead>
 </table>
